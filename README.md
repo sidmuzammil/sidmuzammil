@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **3js**
+- 🌱 I’m currently learning **cloud engineering**
 
 - 👨‍💻 All of my projects are available at [https://personalprotfolio-39410.web.app/](https://personalprotfolio-39410.web.app/)
 
