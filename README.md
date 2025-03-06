@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **cloud engineering**
 
-- 👨‍💻 All of my projects are available at [https://personalprotfolio-39410.web.app/](https://personalprotfolio-39410.web.app/)
+- 👨‍💻 All of my projects are available at [[https://personalprotfolio-39410.web.app/](https://personalprotfolio-39410.web.app/](https://sidhu-portfolio.vercel.app/))
 
-- 💬 Ask me about **reactjs/javasript/css and other css frameworks**
+- 💬 Ask me about **web developing/cloud and other AI**
 
-- 📫 How to reach me **sidhuxnm@gmail.com**
+- 📫 How to reach me **muzamilsid@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
