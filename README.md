@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **cloud engineering**
 
-- 👨‍💻 All of my projects are available at [[https://personalprotfolio-39410.web.app/](https://personalprotfolio-39410.web.app/](https://sidhu-portfolio.vercel.app/))
+- 👨‍💻 All of my projects are available at [[https://personalprotfolio-39410.web.app/]()
 
 - 💬 Ask me about **web developing/cloud and other AI**
 
