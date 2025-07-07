@@ -1,5 +1,5 @@
 <h1 align="center">Hi there !👋 iam zidhu</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"> Passionate about pushing the boundaries of AI—researching breakthroughs, building smart solutions, and turning ideas into intelligent impact </h3>
 
 
 
