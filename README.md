@@ -10,7 +10,7 @@
 
 - 🌱  **cloud engineering**
 
-- 👨‍💻  (https://kaleidoscopic-pothos-d35168.netlify.app/)
+- 👨‍💻  ((https://sidhu-portfolio-8bui37n57-muzammils-projects.vercel.app/))
 
 - 💬 Ask me about **web developing/cloud and other AI**
 
